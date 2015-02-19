@@ -1,0 +1,27 @@
+{
+  "name": "consolestack",
+  "version": "1.0.0",
+  "description": "Improve console functions with file and line number output",
+  "main": "consolestack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodecraft/consolestack.js"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "stack"
+  ],
+  "author": "NodeCraft Hosting LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodecraft/consolestack.js/issues"
+  },
+  "homepage": "https://github.com/nodecraft/consolestack.js",
+  "dependencies": {
+    "colors": "^1.0.3"
+  }
+}
