@@ -18,9 +18,12 @@ Simply require the library and the rest is done automatically.
 Changelog
 =============
 
+`1.0.2`
+ - Added console.err as a method to avoid stamp output for console.error/warn.
+
 `1.0.1`
- - Added console.out as a method to avoid stamp output.
+ - Added console.out as a method to avoid stamp output for console.log.
  - Stack trace now excludes CWD for logging
 
-`1.0.0`
+ `1.0.0`
  - Release Version

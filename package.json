@@ -1,6 +1,6 @@
 {
   "name": "consolestack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Improve console functions with file and line number output",
   "main": "consolestack.js",
   "scripts": {
