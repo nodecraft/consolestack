@@ -25,5 +25,5 @@ Changelog
  - Added console.out as a method to avoid stamp output for console.log.
  - Stack trace now excludes CWD for logging
 
- `1.0.0`
+`1.0.0`
  - Release Version
