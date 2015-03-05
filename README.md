@@ -14,3 +14,12 @@ Simply require the library and the rest is done automatically.
 ```javascript
     require('consolestack');
 ```
+
+Changelog
+=============
+
+`1.0.1`
+ - Added console.out as a method to avoid stamp output.
+ - Stack trace now excludes CWD for logging
+ `1.0.0`
+ - Release Version
